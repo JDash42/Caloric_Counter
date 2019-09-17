@@ -10,7 +10,6 @@ end
 gem 'rails', '~> 5.1.7'
 gem 'devise'
 gem "bulma-rails", "~> 0.7.5"
-gem 'kaminari'
 gem 'bcrypt', '3.1.12'
 gem 'faker', '1.7.3'
 gem 'will_paginate', '3.1.6'
