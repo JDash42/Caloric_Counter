@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number_of_calories: 1
+  ingest_or_burn: false
+  description: MyText
+
+two:
+  number_of_calories: 1
+  ingest_or_burn: false
+  description: MyText
